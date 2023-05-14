@@ -54,7 +54,7 @@ __Build__
 To build the executable Jar, run the following maven command in the project root directory:
 $ mvn clean package
 
-It will create a jar CanvasProject.jar in <project root>/target directory.
+It will create a jar Canvas.jar in <project root>/target directory.
 
 __Run__
 To run the program:
